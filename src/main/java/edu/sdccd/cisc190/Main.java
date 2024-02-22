@@ -8,8 +8,6 @@ public class Main {
     public static void main(String[] args) {
         int integerDemo = 1;
         System.out.println(integerDemo);
-        integerDemo = integerDemo +1;
-        integerDemo++;
 
         long longDemo = 999999999L;
         System.out.println(longDemo + 200);
